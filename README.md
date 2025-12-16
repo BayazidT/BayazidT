@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BayazidT
 - 👀 I’m interested in back-end api development
 - 🌱 I’m currently learning spring boot 
-- 💞️ I'll look to collaborate on ...
-- 📫 How to reach me ... linkedin profile: https://www.linkedin.com/in/bayazid-talukder-35249116b/
+- 💞️ I'll look to collaborate on open source projects
+- 📫 How to reach me ... linkedin profile: https://www.linkedin.com/in/bayazid-talukder
 <br>
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayazidt&show_icons=true&theme=dark&locale=en&layout=compact" alt="bayazidt" /></p>
 
