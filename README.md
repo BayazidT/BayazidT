@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @BayazidT
-- 👀 I’m interested in back-end api development
-- 🌱 I’m currently learning spring boot 
+- 👀 I’m interested in full-stack software development
+- 🌱 I’m currently working with spring boot and react typescript. 
 - 💞️ I'll look to collaborate on open source projects
 - 📫 How to reach me ... linkedin profile: https://www.linkedin.com/in/bayazid-talukder
 <br>
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayazidt&show_icons=true&theme=dark&locale=en&layout=compact" alt="bayazidt" /></p>
 
 <!-- <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bayazidt&show_icons=true&theme=dark&locale=en" alt="bayazidt" /></p>
